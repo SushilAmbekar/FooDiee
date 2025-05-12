@@ -1,8 +1,52 @@
-Thank you for using our template!
+# 🍽️ FooDiee - Responsive Food Website
 
-For more awesome templates please visit https://SA.com/wp/templates/
+Welcome to **FooDiee**, a sleek, responsive food website featuring a variety of recipes and food-related content.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://SA.com/wp/licence/
+## 🔥 Live Demo
+Check out the live preview of the website here:  
+[Live Demo](http://127.0.0.1:5500/tasteit-master/index.html)
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+## 📸 Screenshot
+
+![Homepage Screenshot](C:\Users\SUSHIL\Projects\tasteit\tasteit-master\images)  
+*(Place your screenshot in the `screenshots/` folder)*
+
+## 🛠️ Features
+
+- **Responsive Design**: Fully responsive across mobile, tablet, and desktop.
+- **Food Categories**: Browse various food categories.
+- **Recipe Information**: Detailed recipe instructions and images.
+- **Interactive Elements**: Hover effects, animations, and smooth transitions.
+
+## 📁 Project Structure
+
+- `index.html`: Homepage of the website.
+- `css/`: Styles for the website.
+- `js/`: JavaScript functionality for dynamic elements.
+- `images/`: Asset images for the website.
+- `screenshots/`: Project screenshots for documentation.
+
+## 📝 Getting Started
+
+To view the project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SushilAmbekar/FooDiee.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd FooDiee
+    ```
+
+3. Open `index.html` in your browser to view the website.
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sushil Ambekar](https://www.linkedin.com/in/sushilambekarsa/)
+
+---
+
