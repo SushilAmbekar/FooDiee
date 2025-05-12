@@ -8,8 +8,7 @@ Check out the live preview of the website here:
 
 ## 📸 Screenshot
 
-![Homepage Screenshot](C:\Users\SUSHIL\Projects\tasteit\tasteit-master\images)  
-*(Place your screenshot in the `screenshots/` folder)*
+![Homepage Screenshot]("Screenshot 2025-05-12 123101.png")  
 
 ## 🛠️ Features
 
