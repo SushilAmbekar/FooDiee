@@ -8,7 +8,7 @@ Check out the live preview of the website here:
 
 ## 📸 Screenshot
 
-![Homepage Screenshot]("Screenshot 2025-05-12 123101.png")  
+![Homepage Screenshot](Screenshot 2025-05-12 123101.png)  
 
 ## 🛠️ Features
 
