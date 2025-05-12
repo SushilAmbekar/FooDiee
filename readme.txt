@@ -4,7 +4,7 @@ Welcome to **FooDiee**, a sleek, responsive food website featuring a variety of 
 
 ## 🔥 Live Demo
 Check out the live preview of the website here:  
-[Live Demo](http://127.0.0.1:5500/tasteit-master/index.html)
+[Live Demo](https://sushilambekar.github.io/FooDiee/)
 
 ## 📸 Screenshot
 
